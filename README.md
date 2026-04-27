@@ -6,7 +6,7 @@
 
 ## Progress Tracker
 
-## Today's Goal
+## Today's Goals
 
 | Day | Date | Problem | Topic | Difficulty | Status | LinkedIn Update on every 7 days |
 |-----|------|---------|-------|------------|--------|--------|
