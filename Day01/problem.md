@@ -1,0 +1,1 @@
+q1.wap to check Character is Uppercase or Lowercase.
