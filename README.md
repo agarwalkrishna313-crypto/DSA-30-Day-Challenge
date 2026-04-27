@@ -6,7 +6,7 @@
 
 ## Progress Tracker
 
-| Day | Date | Problem | Topic | Difficulty | Status | LinkedIn Update |
+| Day | Date | Problem | Topic | Difficulty | Status | LinkedIn Update on every 7 days |
 |-----|------|---------|-------|------------|--------|--------|
 | 01 | - | - | - | - | ⬜ | - |
 | 02 | - | - | - | - | ⬜ | - |
